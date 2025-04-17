@@ -33,8 +33,8 @@ More projects coming soon as I level up my skills.
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile/) *(update with your actual link)*
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/johnvesslyalti) 
+- Email: [your.email@example.com](mailto:altijohnvessly@gmail.com)
 
 ---
 
