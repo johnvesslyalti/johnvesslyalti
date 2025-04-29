@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Johnvessly Alti
 
 🎯 Aspiring **Full Stack Developer** | 💻 Passionate about building user-friendly web apps  
-📚 Computer Science Graduate (2024)  
+📚 Computer Science Graduate 
 🌱 Currently learning **React** and **Tailwind CSS**
 
 ---
