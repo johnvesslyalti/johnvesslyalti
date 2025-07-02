@@ -63,8 +63,6 @@ Personal finance tracker with budgets, charts, PWA support, and recurring transa
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=johnvesslyalti&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=johnvesslyalti&theme=radical&no-frame=true&column=4" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnvesslyalti&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
