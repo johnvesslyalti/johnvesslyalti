@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-mu-ten-64.vercel.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://portfolio-zeta-ecru-3sfn3ix7hw.vercel.app" target="_blank">🌐 Portfolio</a> •
   <a href="https://linkedin.com/in/johnvesslyalti" target="_blank">🔗 LinkedIn</a> •
   <a href="https://github.com/johnvesslyalti" target="_blank">💻 GitHub</a>
 </p>
