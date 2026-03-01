@@ -51,8 +51,10 @@ Recent posts:
 
 ## 📊 GitHub Stats
 
-![Johnvessly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnvesslyalti&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnvesslyalti&layout=compact&hide_border=true&theme=default)
+![Johnvessly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnvesslyalti&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnvesslyalti&layout=compact&hide_border=true&theme=default&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=johnvesslyalti&theme=default&hide_border=true)
 
 ---
 
